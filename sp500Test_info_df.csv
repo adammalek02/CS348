@@ -1,0 +1,504 @@
+Ticker,ShortName,Sector,Industry,Price
+MMM,3M,Industrials,Industrial Conglomerates,141.61000061035156
+AOS,A. O. Smith,Industrials,Building Products,68.69000244140625
+ABT,Abbott Laboratories,Health Care,Health Care Equipment,131.89999389648438
+ABBV,AbbVie,Health Care,Biotechnology,197.14500427246094
+ACN,Accenture,Information Technology,IT Consulting & Other Services,305.9200134277344
+ADBE,Adobe Inc.,Information Technology,Application Software,382.3450012207031
+AMD,Advanced Micro Devices,Information Technology,Semiconductors,99.27999877929688
+AES,AES Corporation,Utilities,Independent Power Producers & Energy Traders,10.265000343322754
+AFL,Aflac,Financials,Life & Health Insurance,105.48500061035156
+A,Agilent Technologies,Health Care,Life Sciences Tools & Services,108.16999816894531
+APD,Air Products,Materials,Industrial Gases,278.80499267578125
+ABNB,Airbnb,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",124.83999633789062
+AKAM,Akamai Technologies,Information Technology,Internet Services & Infrastructure,82.7300033569336
+ALB,Albemarle Corporation,Materials,Specialty Chemicals,61.20000076293945
+ARE,Alexandria Real Estate Equities,Real Estate,Office REITs,74.31500244140625
+ALGN,Align Technology,Health Care,Health Care Supplies,178.25
+ALLE,Allegion,Industrials,Building Products,141.39999389648438
+LNT,Alliant Energy,Utilities,Electric Utilities,60.9900016784668
+ALL,Allstate,Financials,Property & Casualty Insurance,197.44000244140625
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services,164.1060028076172
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services,165.88999938964844
+MO,Altria,Consumer Staples,Tobacco,59.310001373291016
+AMZN,Amazon,Consumer Discretionary,Broadline Retail,191.375
+AMCR,Amcor,Materials,Paper & Plastic Packaging Products & Materials,9.279999732971191
+AEE,Ameren,Utilities,Multi-Utilities,98.31999969482422
+AEP,American Electric Power,Utilities,Electric Utilities,107.44000244140625
+AXP,American Express,Financials,Consumer Finance,276.70001220703125
+AIG,American International Group,Financials,Multi-line Insurance,83.2699966430664
+AMT,American Tower,Real Estate,Telecom Tower REITs,222.25999450683594
+AWK,American Water Works,Utilities,Water Utilities,146.22999572753906
+AMP,Ameriprise Financial,Financials,Asset Management & Custody Banks,483.510009765625
+AME,Ametek,Industrials,Electrical Components & Equipment,170.6300048828125
+AMGN,Amgen,Health Care,Biotechnology,277.94000244140625
+APH,Amphenol,Information Technology,Electronic Components,80.39700317382812
+ADI,Analog Devices,Information Technology,Semiconductors,199.58709716796875
+ANSS,Ansys,Information Technology,Application Software,326.3800048828125
+AON,Aon plc,Financials,Insurance Brokers,356.1199951171875
+APA,APA Corporation,Energy,Oil & Gas Exploration & Production,16.454999923706055
+APO,Apollo Global Management,Financials,Asset Management & Custody Banks,136.67999267578125
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",206.3699951171875
+AMAT,Applied Materials,Information Technology,Semiconductor Materials & Equipment,156.59500122070312
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment,58.869998931884766
+ACGL,Arch Capital Group,Financials,Property & Casualty Insurance,91.68499755859375
+ADM,Archer Daniels Midland,Consumer Staples,Agricultural Products & Services,47.7599983215332
+ANET,Arista Networks,Information Technology,Communications Equipment,91.66999816894531
+AJG,Arthur J. Gallagher & Co.,Financials,Insurance Brokers,329.7550048828125
+AIZ,Assurant,Financials,Multi-line Insurance,195.00999450683594
+T,AT&T,Communication Services,Integrated Telecommunication Services,27.523500442504883
+ATO,Atmos Energy,Utilities,Gas Utilities,160.61500549316406
+ADSK,Autodesk,Information Technology,Application Software,279.32000732421875
+ADP,Automatic Data Processing,Industrials,Human Resource & Employment Services,304.3500061035156
+AZO,AutoZone,Consumer Discretionary,Automotive Retail,3737.568115234375
+AVB,AvalonBay Communities,Real Estate,Multi-Family Residential REITs,211.0
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials,171.60000610351562
+AXON,Axon Enterprise,Industrials,Aerospace & Defense,633.3200073242188
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services,36.849998474121094
+BALL,Ball Corporation,Materials,"Metal, Glass & Plastic Containers",51.45000076293945
+BAC,Bank of America,Financials,Diversified Banks,41.02360153198242
+BAX,Baxter International,Health Care,Health Care Equipment,30.469999313354492
+BDX,Becton Dickinson,Health Care,Health Care Equipment,166.55999755859375
+BRK-B,Berkshire Hathaway,Financials,Multi-Sector Holdings,539.375
+BBY,Best Buy,Consumer Discretionary,Computer & Electronics Retail,68.04000091552734
+TECH,Bio-Techne,Health Care,Life Sciences Tools & Services,50.7400016784668
+BIIB,Biogen,Health Care,Biotechnology,122.9000015258789
+BLK,BlackRock,Financials,Asset Management & Custody Banks,929.8300170898438
+BX,Blackstone Inc.,Financials,Asset Management & Custody Banks,138.05499267578125
+BK,BNY Mellon,Financials,Asset Management & Custody Banks,82.33999633789062
+BA,Boeing,Industrials,Aerospace & Defense,187.07000732421875
+BKNG,Booking Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",5158.259765625
+BSX,Boston Scientific,Health Care,Health Care Equipment,104.67610168457031
+BMY,Bristol Myers Squibb,Health Care,Pharmaceuticals,50.05500030517578
+AVGO,Broadcom,Information Technology,Semiconductors,205.30999755859375
+BR,Broadridge Financial Solutions,Industrials,Data Processing & Outsourced Services,233.3699951171875
+BRO,Brown & Brown,Financials,Insurance Brokers,110.4000015258789
+BF-B,Brown–Forman,Consumer Staples,Distillers & Vintners,34.7599983215332
+BLDR,Builders FirstSource,Industrials,Building Products,114.58999633789062
+BG,Bunge Global,Consumer Staples,Agricultural Products & Services,78.875
+BXP,"BXP, Inc.",Real Estate,Office REITs,65.18000030517578
+CHRW,C.H. Robinson,Industrials,Air Freight & Logistics,90.8499984741211
+CDNS,Cadence Design Systems,Information Technology,Application Software,309.19000244140625
+CZR,Caesars Entertainment,Consumer Discretionary,Casinos & Gaming,28.030000686645508
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs,119.36499786376953
+CPB,Campbell's Company (The),Consumer Staples,Packaged Foods & Meats,35.869998931884766
+COF,Capital One,Financials,Consumer Finance,187.36500549316406
+CAH,Cardinal Health,Health Care,Health Care Distributors,148.42999267578125
+KMX,CarMax,Consumer Discretionary,Automotive Retail,66.4800033569336
+CCL,Carnival,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",19.489999771118164
+CARR,Carrier Global,Industrials,Building Products,71.51000213623047
+CAT,Caterpillar Inc.,Industrials,Construction Machinery & Heavy Transportation Equipment,322.5
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data,225.61000061035156
+CBRE,CBRE Group,Real Estate,Real Estate Services,126.5999984741211
+CDW,CDW Corporation,Information Technology,Technology Distributors,167.09500122070312
+COR,Cencora,Health Care,Health Care Distributors,291.4849853515625
+CNC,Centene Corporation,Health Care,Managed Health Care,59.625
+CNP,CenterPoint Energy,Utilities,Multi-Utilities,38.779998779296875
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals,79.9800033569336
+CRL,Charles River Laboratories,Health Care,Life Sciences Tools & Services,120.47000122070312
+SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage,83.29000091552734
+CHTR,Charter Communications,Communication Services,Cable & Satellite,384.625
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas,139.13499450683594
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants,51.630001068115234
+CB,Chubb Limited,Financials,Property & Casualty Insurance,286.7850036621094
+CHD,Church & Dwight,Consumer Staples,Household Products,92.7699966430664
+CI,Cigna,Health Care,Health Care Services,333.9700012207031
+CINF,Cincinnati Financial,Financials,Property & Casualty Insurance,142.67999267578125
+CTAS,Cintas,Industrials,Diversified Support Services,212.19000244140625
+CSCO,Cisco,Information Technology,Communications Equipment,59.224998474121094
+C,Citigroup,Financials,Diversified Banks,70.62999725341797
+CFG,Citizens Financial Group,Financials,Regional Banks,38.45500183105469
+CLX,Clorox,Consumer Staples,Household Products,138.6999969482422
+CME,CME Group,Financials,Financial Exchanges & Data,281.1000061035156
+CMS,CMS Energy,Utilities,Multi-Utilities,72.66000366210938
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages,71.48999786376953
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services,76.7750015258789
+CL,Colgate-Palmolive,Consumer Staples,Household Products,90.2300033569336
+CMCSA,Comcast,Communication Services,Cable & Satellite,34.42499923706055
+CAG,Conagra Brands,Consumer Staples,Packaged Foods & Meats,23.7549991607666
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production,91.4000015258789
+ED,Consolidated Edison,Utilities,Multi-Utilities,110.06500244140625
+STZ,Constellation Brands,Consumer Staples,Distillers & Vintners,186.0
+CEG,Constellation Energy,Utilities,Electric Utilities,249.02999877929688
+COO,Cooper Companies (The),Health Care,Health Care Supplies,81.91999816894531
+CPRT,Copart,Industrials,Diversified Support Services,61.685001373291016
+GLW,Corning Inc.,Information Technology,Electronic Components,45.67499923706055
+CPAY,Corpay,Financials,Transaction & Payment Processing Services,328.5899963378906
+CTVA,Corteva,Materials,Fertilizers & Agricultural Chemicals,62.21500015258789
+CSGP,CoStar Group,Real Estate,Real Estate Services,77.75
+COST,Costco,Consumer Staples,Consumer Staples Merchandise Retail,1010.47998046875
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production,25.415000915527344
+CRWD,CrowdStrike,Information Technology,Systems Software,442.7300109863281
+CCI,Crown Castle,Real Estate,Telecom Tower REITs,106.25
+CSX,CSX Corporation,Industrials,Rail Transportation,28.614999771118164
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment,303.55999755859375
+CVS,CVS Health,Health Care,Health Care Services,67.87999725341797
+DHR,Danaher Corporation,Health Care,Life Sciences Tools & Services,199.2100067138672
+DRI,Darden Restaurants,Consumer Discretionary,Restaurants,203.22000122070312
+DVA,DaVita,Health Care,Health Care Services,140.0
+DAY,Dayforce,Industrials,Human Resource & Employment Services,59.90999984741211
+DECK,Deckers Brands,Consumer Discretionary,Footwear,116.78500366210938
+DE,Deere & Company,Industrials,Agricultural & Farm Machinery,485.9443054199219
+DELL,Dell Technologies,Information Technology,"Technology Hardware, Storage & Peripherals",94.84500122070312
+DAL,Delta Air Lines,Industrials,Passenger Airlines,44.38999938964844
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production,31.540000915527344
+DXCM,Dexcom,Health Care,Health Care Equipment,81.2052001953125
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production,135.6699981689453
+DLR,Digital Realty,Real Estate,Data Center REITs,164.7449951171875
+DFS,Discover Financial,Financials,Consumer Finance,189.75
+DG,Dollar General,Consumer Staples,Consumer Staples Merchandise Retail,90.59500122070312
+DLTR,Dollar Tree,Consumer Staples,Consumer Staples Merchandise Retail,84.38999938964844
+D,Dominion Energy,Utilities,Multi-Utilities,54.689998626708984
+DPZ,Domino's,Consumer Discretionary,Restaurants,481.82501220703125
+DASH,DoorDash,Consumer Discretionary,Specialized Consumer Services,203.3800048828125
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components,173.69000244140625
+DOW,Dow Inc.,Materials,Commodity Chemicals,30.600000381469727
+DHI,D. R. Horton,Consumer Discretionary,Homebuilding,126.94999694824219
+DTE,DTE Energy,Utilities,Multi-Utilities,135.77999877929688
+DUK,Duke Energy,Utilities,Electric Utilities,120.94999694824219
+DD,DuPont,Materials,Specialty Chemicals,67.5199966430664
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals,77.78250122070312
+ETN,Eaton Corporation,Industrials,Electrical Components & Equipment,299.1300048828125
+EBAY,eBay Inc.,Consumer Discretionary,Broadline Retail,67.96499633789062
+ECL,Ecolab,Materials,Specialty Chemicals,257.0199890136719
+EIX,Edison International,Utilities,Electric Utilities,55.52000045776367
+EW,Edwards Lifesciences,Health Care,Health Care Equipment,75.87999725341797
+EA,Electronic Arts,Communication Services,Interactive Home Entertainment,150.00999450683594
+ELV,Elevance Health,Health Care,Managed Health Care,410.0
+EMR,Emerson Electric,Industrials,Electrical Components & Equipment,108.98999786376953
+ENPH,Enphase Energy,Information Technology,Semiconductor Materials & Equipment,45.689998626708984
+ETR,Entergy,Utilities,Electric Utilities,84.08999633789062
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production,110.41999816894531
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services,161.4199981689453
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production,51.72999954223633
+EFX,Equifax,Industrials,Research & Consulting Services,264.4599914550781
+EQIX,Equinix,Real Estate,Data Center REITs,875.405029296875
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs,71.44999694824219
+ERIE,Erie Indemnity,Financials,Insurance Brokers,360.625
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs,290.2349853515625
+EL,Estée Lauder Companies (The),Consumer Staples,Personal Care Products,58.38999938964844
+EG,Everest Group,Financials,Reinsurance,347.6099853515625
+EVRG,Evergy,Utilities,Electric Utilities,68.98999786376953
+ES,Eversource Energy,Utilities,Electric Utilities,58.79499816894531
+EXC,Exelon,Utilities,Electric Utilities,46.439998626708984
+EXE,Expand Energy,Energy,Oil & Gas Exploration & Production,105.16000366210938
+EXPE,Expedia Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",159.47500610351562
+EXPD,Expeditors International,Industrials,Air Freight & Logistics,112.51499938964844
+EXR,Extra Space Storage,Real Estate,Self-Storage REITs,149.07000732421875
+XOM,ExxonMobil,Energy,Integrated Oil & Gas,106.21499633789062
+FFIV,"F5, Inc.",Information Technology,Communications Equipment,270.5400085449219
+FDS,FactSet,Financials,Financial Exchanges & Data,436.0899963378906
+FICO,Fair Isaac,Information Technology,Application Software,2041.739990234375
+FAST,Fastenal,Industrials,Trading Companies & Distributors,82.16000366210938
+FRT,Federal Realty Investment Trust,Real Estate,Retail REITs,96.12039947509766
+FDX,FedEx,Industrials,Air Freight & Logistics,219.28500366210938
+FIS,Fidelity National Information Services,Financials,Transaction & Payment Processing Services,78.55000305175781
+FITB,Fifth Third Bancorp,Financials,Regional Banks,37.060001373291016
+FSLR,First Solar,Information Technology,Semiconductors,129.55999755859375
+FE,FirstEnergy,Utilities,Electric Utilities,42.88999938964844
+FI,Fiserv,Financials,Transaction & Payment Processing Services,184.22000122070312
+F,Ford Motor Company,Consumer Discretionary,Automobile Manufacturers,10.345000267028809
+FTNT,Fortinet,Information Technology,Systems Software,106.33999633789062
+FTV,Fortive,Industrials,Industrial Machinery & Supplies & Components,67.87999725341797
+FOXA,Fox Corporation (Class A),Communication Services,Broadcasting,49.775001525878906
+FOX,Fox Corporation (Class B),Communication Services,Broadcasting,46.33000183105469
+BEN,Franklin Resources,Financials,Asset Management & Custody Banks,19.975000381469727
+FCX,Freeport-McMoRan,Materials,Copper,37.619998931884766
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics,192.50999450683594
+IT,Gartner,Information Technology,IT Consulting & Other Services,428.57501220703125
+GE,GE Aerospace,Industrials,Aerospace & Defense,207.47500610351562
+GEHC,GE HealthCare,Health Care,Health Care Equipment,69.77999877929688
+GEV,GE Vernova,Industrials,Heavy Electrical Equipment,402.54998779296875
+GEN,Gen Digital,Information Technology,Systems Software,25.915000915527344
+GNRC,Generac,Industrials,Electrical Components & Equipment,115.69000244140625
+GD,General Dynamics,Industrials,Aerospace & Defense,270.7900085449219
+GIS,General Mills,Consumer Staples,Packaged Foods & Meats,55.310001373291016
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers,45.439998626708984
+GPC,Genuine Parts Company,Consumer Discretionary,Distributors,119.37000274658203
+GILD,Gilead Sciences,Health Care,Biotechnology,103.12999725341797
+GPN,Global Payments,Financials,Transaction & Payment Processing Services,78.33000183105469
+GL,Globe Life,Financials,Life & Health Insurance,121.33999633789062
+GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure,175.88999938964844
+GS,Goldman Sachs,Financials,Investment Banking & Brokerage,568.1749877929688
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services,20.440099716186523
+HIG,Hartford (The),Financials,Property & Casualty Insurance,124.80000305175781
+HAS,Hasbro,Consumer Discretionary,Leisure Products,62.0099983215332
+HCA,HCA Healthcare,Health Care,Health Care Facilities,347.4200134277344
+DOC,Healthpeak Properties,Real Estate,Health Care REITs,17.774999618530273
+HSIC,Henry Schein,Health Care,Health Care Distributors,65.23500061035156
+HSY,Hershey Company (The),Consumer Staples,Packaged Foods & Meats,162.6300048828125
+HES,Hess Corporation,Energy,Integrated Oil & Gas,132.6300048828125
+HPE,Hewlett Packard Enterprise,Information Technology,"Technology Hardware, Storage & Peripherals",16.934999465942383
+HLT,Hilton Worldwide,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",239.26499938964844
+HOLX,Hologic,Health Care,Health Care Equipment,52.86000061035156
+HD,Home Depot (The),Consumer Discretionary,Home Improvement Retail,363.70001220703125
+HON,Honeywell,Industrials,Industrial Conglomerates,213.97999572753906
+HRL,Hormel Foods,Consumer Staples,Packaged Foods & Meats,29.31999969482422
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs,14.765000343322754
+HWM,Howmet Aerospace,Industrials,Aerospace & Defense,153.1199951171875
+HPQ,HP Inc.,Information Technology,"Technology Hardware, Storage & Peripherals",25.979999542236328
+HUBB,Hubbell Incorporated,Industrials,Industrial Machinery & Supplies & Components,353.510009765625
+HUM,Humana,Health Care,Managed Health Care,257.75
+HBAN,Huntington Bancshares,Financials,Regional Banks,15.055000305175781
+HII,Huntington Ingalls Industries,Industrials,Aerospace & Defense,227.0500030517578
+IBM,IBM,Information Technology,IT Consulting & Other Services,245.41299438476562
+IEX,IDEX Corporation,Industrials,Industrial Machinery & Supplies & Components,180.74000549316406
+IDXX,Idexx Laboratories,Health Care,Health Care Equipment,472.1600036621094
+ITW,Illinois Tool Works,Industrials,Industrial Machinery & Supplies & Components,242.27999877929688
+INCY,Incyte,Health Care,Biotechnology,62.029998779296875
+IR,Ingersoll Rand,Industrials,Industrial Machinery & Supplies & Components,76.875
+PODD,Insulet Corporation,Health Care,Health Care Equipment,256.1000061035156
+INTC,Intel,Information Technology,Semiconductors,20.68549919128418
+ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,173.85000610351562
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals,78.87999725341797
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials,45.57500076293945
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising,25.364999771118164
+INTU,Intuit,Information Technology,Application Software,633.0599975585938
+ISRG,Intuitive Surgical,Health Care,Health Care Equipment,527.8699951171875
+IVZ,Invesco,Financials,Asset Management & Custody Banks,14.494999885559082
+INVH,Invitation Homes,Real Estate,Single-Family Residential REITs,35.31999969482422
+IQV,IQVIA,Health Care,Life Sciences Tools & Services,153.60499572753906
+IRM,Iron Mountain,Real Estate,Other Specialized REITs,96.66999816894531
+JBHT,J.B. Hunt,Industrials,Cargo Ground Transportation,133.31500244140625
+JBL,Jabil,Information Technology,Electronic Manufacturing Services,151.9149932861328
+JKHY,Jack Henry & Associates,Financials,Transaction & Payment Processing Services,175.2429962158203
+J,Jacobs Solutions,Industrials,Construction & Engineering,126.25499725341797
+JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,155.3300018310547
+JCI,Johnson Controls,Industrials,Building Products,89.12999725341797
+JPM,JPMorgan Chase,Financials,Diversified Banks,253.22999572753906
+JNPR,Juniper Networks,Information Technology,Communications Equipment,36.689998626708984
+K,Kellanova,Consumer Staples,Packaged Foods & Meats,82.66999816894531
+KVUE,Kenvue,Consumer Staples,Personal Care Products,23.809999465942383
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,34.505001068115234
+KEY,KeyCorp,Financials,Regional Banks,15.419899940490723
+KEYS,Keysight Technologies,Information Technology,Electronic Equipment & Instruments,148.74000549316406
+KMB,Kimberly-Clark,Consumer Staples,Household Products,129.49000549316406
+KIM,Kimco Realty,Real Estate,Retail REITs,21.040000915527344
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation,26.774999618530273
+KKR,KKR & Co.,Financials,Asset Management & Custody Banks,117.21499633789062
+KLAC,KLA Corporation,Information Technology,Semiconductor Materials & Equipment,707.8400268554688
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats,28.604999542236328
+KR,Kroger,Consumer Staples,Food Retail,71.56500244140625
+LHX,L3Harris,Industrials,Aerospace & Defense,215.5800018310547
+LH,Labcorp,Health Care,Health Care Services,245.8000030517578
+LRCX,Lam Research,Information Technology,Semiconductor Materials & Equipment,75.38999938964844
+LW,Lamb Weston,Consumer Staples,Packaged Foods & Meats,52.02000045776367
+LVS,Las Vegas Sands,Consumer Discretionary,Casinos & Gaming,37.869998931884766
+LDOS,Leidos,Industrials,Diversified Support Services,147.07000732421875
+LEN,Lennar,Consumer Discretionary,Homebuilding,109.95500183105469
+LII,Lennox International,Industrials,Building Products,565.1599731445312
+LLY,Lilly (Eli),Health Care,Pharmaceuticals,826.102783203125
+LIN,Linde plc,Materials,Industrial Gases,454.6700134277344
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment,134.13999938964844
+LKQ,LKQ Corporation,Consumer Discretionary,Distributors,38.75
+LMT,Lockheed Martin,Industrials,Aerospace & Defense,470.9949951171875
+L,Loews Corporation,Financials,Multi-line Insurance,87.80999755859375
+LOW,Lowe's,Consumer Discretionary,Home Improvement Retail,225.82000732421875
+LULU,Lululemon Athletica,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",275.04998779296875
+LYB,LyondellBasell,Materials,Specialty Chemicals,58.8120002746582
+MTB,M&T Bank,Financials,Regional Banks,175.14500427246094
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing,139.50999450683594
+MKTX,MarketAxess,Financials,Financial Exchanges & Data,224.75
+MAR,Marriott International,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",248.61000061035156
+MMC,Marsh McLennan,Financials,Insurance Brokers,226.61500549316406
+MLM,Martin Marietta Materials,Materials,Construction Materials,537.3800048828125
+MAS,Masco,Industrials,Building Products,61.9900016784668
+MA,Mastercard,Financials,Transaction & Payment Processing Services,560.469970703125
+MTCH,Match Group,Communication Services,Interactive Media & Services,30.75
+MKC,McCormick & Company,Consumer Staples,Packaged Foods & Meats,75.91500091552734
+MCD,McDonald's,Consumer Discretionary,Restaurants,312.3900146484375
+MCK,McKesson Corporation,Health Care,Health Care Distributors,708.0650024414062
+MDT,Medtronic,Health Care,Health Care Equipment,84.25499725341797
+MRK,Merck & Co.,Health Care,Pharmaceuticals,83.62999725341797
+META,Meta Platforms,Communication Services,Interactive Media & Services,600.5255737304688
+MET,MetLife,Financials,Life & Health Insurance,77.58000183105469
+MTD,Mettler Toledo,Health Care,Life Sciences Tools & Services,1080.010009765625
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming,32.154998779296875
+MCHP,Microchip Technology,Information Technology,Semiconductors,48.349998474121094
+MU,Micron Technology,Information Technology,Semiconductors,81.08999633789062
+MSFT,Microsoft,Information Technology,Systems Software,437.3999938964844
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs,167.05499267578125
+MRNA,Moderna,Health Care,Biotechnology,27.90999984741211
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings,102.8949966430664
+MOH,Molina Healthcare,Health Care,Managed Health Care,314.67498779296875
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers,57.56999969482422
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats,67.55000305175781
+MPWR,Monolithic Power Systems,Information Technology,Semiconductors,642.0349731445312
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,59.599998474121094
+MCO,Moody's Corporation,Financials,Financial Exchanges & Data,463.4599914550781
+MS,Morgan Stanley,Financials,Investment Banking & Brokerage,120.05000305175781
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals,30.479999542236328
+MSI,Motorola Solutions,Information Technology,Communications Equipment,409.4750061035156
+MSCI,MSCI Inc.,Financials,Financial Exchanges & Data,552.1849975585938
+NDAQ,"Nasdaq, Inc.",Financials,Financial Exchanges & Data,77.9000015258789
+NTAP,NetApp,Information Technology,"Technology Hardware, Storage & Peripherals",91.80999755859375
+NFLX,Netflix,Communication Services,Movies & Entertainment,1154.22998046875
+NEM,Newmont,Materials,Gold,51.439998626708984
+NWSA,News Corp (Class A),Communication Services,Publishing,27.579999923706055
+NWS,News Corp (Class B),Communication Services,Publishing,31.920000076293945
+NEE,NextEra Energy,Utilities,Multi-Utilities,67.11499786376953
+NKE,"Nike, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",58.06999969482422
+NI,NiSource,Utilities,Multi-Utilities,39.185001373291016
+NDSN,Nordson Corporation,Industrials,Industrial Machinery & Supplies & Components,193.55499267578125
+NSC,Norfolk Southern,Industrials,Rail Transportation,224.38999938964844
+NTRS,Northern Trust,Financials,Asset Management & Custody Banks,97.70999908447266
+NOC,Northrop Grumman,Industrials,Aerospace & Defense,482.19000244140625
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",17.454999923706055
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders,117.47000122070312
+NUE,Nucor,Materials,Steel,122.95999908447266
+NVDA,Nvidia,Information Technology,Semiconductors,115.1449966430664
+NVR,"NVR, Inc.",Consumer Discretionary,Homebuilding,7121.7998046875
+NXPI,NXP Semiconductors,Information Technology,Semiconductors,189.0
+ORLY,O’Reilly Automotive,Consumer Discretionary,Automotive Retail,1411.550048828125
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production,40.5099983215332
+ODFL,Old Dominion,Industrials,Cargo Ground Transportation,159.13999938964844
+OMC,Omnicom Group,Communication Services,Advertising,76.9000015258789
+ON,ON Semiconductor,Information Technology,Semiconductors,41.95000076293945
+OKE,Oneok,Energy,Oil & Gas Storage & Transportation,83.0250015258789
+ORCL,Oracle Corporation,Information Technology,Application Software,151.7949981689453
+OTIS,Otis Worldwide,Industrials,Industrial Machinery & Supplies & Components,97.3499984741211
+PCAR,Paccar,Industrials,Construction Machinery & Heavy Transportation Equipment,91.70999908447266
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials,186.8699951171875
+PLTR,Palantir Technologies,Information Technology,Application Software,123.11820220947266
+PANW,Palo Alto Networks,Information Technology,Systems Software,188.58999633789062
+PARA,Paramount Global,Communication Services,Movies & Entertainment,11.6850004196167
+PH,Parker Hannifin,Industrials,Industrial Machinery & Supplies & Components,625.6749877929688
+PAYX,Paychex,Industrials,Human Resource & Employment Services,150.0
+PAYC,Paycom,Industrials,Human Resource & Employment Services,230.1300048828125
+PYPL,PayPal,Financials,Transaction & Payment Processing Services,67.0
+PNR,Pentair,Industrials,Industrial Machinery & Supplies & Components,93.4800033569336
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,133.60000610351562
+PFE,Pfizer,Health Care,Pharmaceuticals,24.165000915527344
+PCG,PG&E Corporation,Utilities,Multi-Utilities,16.96500015258789
+PM,Philip Morris International,Consumer Staples,Tobacco,170.60000610351562
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,106.1050033569336
+PNW,Pinnacle West Capital,Utilities,Multi-Utilities,94.58000183105469
+PNC,PNC Financial Services,Financials,Diversified Banks,165.35000610351562
+POOL,Pool Corporation,Consumer Discretionary,Distributors,302.6199951171875
+PPG,PPG Industries,Materials,Specialty Chemicals,110.7699966430664
+PPL,PPL Corporation,Utilities,Electric Utilities,36.060001373291016
+PFG,Principal Financial Group,Financials,Life & Health Insurance,75.94999694824219
+PG,Procter & Gamble,Consumer Staples,Personal Care Products,160.27000427246094
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance,281.69000244140625
+PLD,Prologis,Real Estate,Industrial REITs,105.44000244140625
+PRU,Prudential Financial,Financials,Life & Health Insurance,103.84300231933594
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities,79.70249938964844
+PTC,PTC Inc.,Information Technology,Application Software,160.88999938964844
+PSA,Public Storage,Real Estate,Self-Storage REITs,300.010009765625
+PHM,PulteGroup,Consumer Discretionary,Homebuilding,104.16999816894531
+PWR,Quanta Services,Industrials,Construction & Engineering,326.2099914550781
+QCOM,Qualcomm,Information Technology,Semiconductors,141.1300048828125
+DGX,Quest Diagnostics,Health Care,Health Care Services,177.4550018310547
+RL,Ralph Lauren Corporation,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",232.1999969482422
+RJF,Raymond James Financial,Financials,Investment Banking & Brokerage,141.52000427246094
+RTX,RTX Corporation,Industrials,Aerospace & Defense,129.47999572753906
+O,Realty Income,Real Estate,Retail REITs,57.043701171875
+REG,Regency Centers,Real Estate,Retail REITs,72.81999969482422
+REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,608.219970703125
+RF,Regions Financial Corporation,Financials,Regional Banks,21.014999389648438
+RSG,Republic Services,Industrials,Environmental & Facilities Services,250.96499633789062
+RMD,ResMed,Health Care,Health Care Equipment,239.12559509277344
+RVTY,Revvity,Health Care,Health Care Equipment,94.28500366210938
+ROK,Rockwell Automation,Industrials,Electrical Components & Equipment,254.4199981689453
+ROL,"Rollins, Inc.",Industrials,Environmental & Facilities Services,56.560001373291016
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments,568.3499755859375
+ROST,Ross Stores,Consumer Discretionary,Apparel Retail,140.66000366210938
+RCL,Royal Caribbean Group,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",228.27999877929688
+SPGI,S&P Global,Financials,Financial Exchanges & Data,506.8800048828125
+CRM,Salesforce,Information Technology,Application Software,275.9700012207031
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs,238.89999389648438
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services,34.5099983215332
+STX,Seagate Technology,Information Technology,"Technology Hardware, Storage & Peripherals",92.3499984741211
+SRE,Sempra,Utilities,Multi-Utilities,75.61000061035156
+NOW,ServiceNow,Information Technology,Systems Software,980.0
+SHW,Sherwin-Williams,Materials,Specialty Chemicals,360.489990234375
+SPG,Simon Property Group,Real Estate,Retail REITs,160.38999938964844
+SWKS,Skyworks Solutions,Information Technology,Semiconductors,66.80999755859375
+SJM,J.M. Smucker Company (The),Consumer Staples,Packaged Foods & Meats,114.0447006225586
+SW,Smurfit Westrock,Materials,Paper & Plastic Packaging Products & Materials,41.32500076293945
+SNA,Snap-on,Industrials,Industrial Machinery & Supplies & Components,317.48748779296875
+SOLV,Solventum,Health Care,Health Care Technology,67.2300033569336
+SO,Southern Company,Utilities,Electric Utilities,91.05000305175781
+LUV,Southwest Airlines,Industrials,Passenger Airlines,29.815000534057617
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components,61.185001373291016
+SBUX,Starbucks,Consumer Discretionary,Restaurants,83.9800033569336
+STT,State Street Corporation,Financials,Asset Management & Custody Banks,90.66500091552734
+STLD,Steel Dynamics,Materials,Steel,134.88999938964844
+STE,Steris,Health Care,Health Care Equipment,223.9049072265625
+SYK,Stryker Corporation,Health Care,Health Care Equipment,375.7900085449219
+SMCI,Supermicro,Information Technology,"Technology Hardware, Storage & Peripherals",33.7400016784668
+SYF,Synchrony Financial,Financials,Consumer Finance,54.040000915527344
+SNPS,Synopsys,Information Technology,Application Software,473.989990234375
+SYY,Sysco,Consumer Staples,Food Distributors,70.37000274658203
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services,249.00010681152344
+TROW,T. Rowe Price,Financials,Asset Management & Custody Banks,91.5999984741211
+TTWO,Take-Two Interactive,Communication Services,Interactive Home Entertainment,220.8101043701172
+TPR,"Tapestry, Inc.",Consumer Discretionary,"Apparel, Accessories & Luxury Goods",71.87000274658203
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation,162.6300048828125
+TGT,Target Corporation,Consumer Staples,Consumer Staples Merchandise Retail,97.49710083007812
+TEL,TE Connectivity,Information Technology,Electronic Manufacturing Services,149.89500427246094
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments,477.7900085449219
+TER,Teradyne,Information Technology,Semiconductor Materials & Equipment,76.8499984741211
+TSLA,"Tesla, Inc.",Consumer Discretionary,Automobile Manufacturers,287.6899108886719
+TXN,Texas Instruments,Information Technology,Semiconductors,165.9532928466797
+TPL,Texas Pacific Land Corporation,Energy,Oil & Gas Exploration & Production,1354.7750244140625
+TXT,Textron,Industrials,Aerospace & Defense,71.19000244140625
+TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools & Services,424.864990234375
+TJX,TJX Companies,Consumer Discretionary,Apparel Retail,129.3249969482422
+TKO,TKO Group Holdings,Communication Services,Movies & Entertainment,165.44000244140625
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail,50.9900016784668
+TT,Trane Technologies,Industrials,Building Products,400.07000732421875
+TDG,TransDigm Group,Industrials,Aerospace & Defense,1453.1400146484375
+TRV,Travelers Companies (The),Financials,Property & Casualty Insurance,265.7099914550781
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment & Instruments,64.33999633789062
+TFC,Truist Financial,Financials,Diversified Banks,39.44499969482422
+TYL,Tyler Technologies,Information Technology,Application Software,548.5999755859375
+TSN,Tyson Foods,Consumer Staples,Packaged Foods & Meats,61.02000045776367
+USB,U.S. Bancorp,Financials,Diversified Banks,41.404998779296875
+UBER,Uber,Industrials,Passenger Ground Transportation,84.24500274658203
+UDR,"UDR, Inc.",Real Estate,Multi-Family Residential REITs,43.720001220703125
+ULTA,Ulta Beauty,Consumer Discretionary,Other Specialty Retail,395.3999938964844
+UNP,Union Pacific Corporation,Industrials,Rail Transportation,218.42999267578125
+UAL,United Airlines Holdings,Industrials,Passenger Airlines,74.38999938964844
+UPS,United Parcel Service,Industrials,Air Freight & Logistics,97.12000274658203
+URI,United Rentals,Industrials,Trading Companies & Distributors,667.905029296875
+UNH,UnitedHealth Group,Health Care,Managed Health Care,399.2900085449219
+UHS,Universal Health Services,Health Care,Health Care Facilities,177.9499969482422
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing,116.58999633789062
+VTR,Ventas,Real Estate,Health Care REITs,66.20999908447266
+VLTO,Veralto,Industrials,Environmental & Facilities Services,94.99500274658203
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure,282.95001220703125
+VRSK,Verisk Analytics,Industrials,Research & Consulting Services,293.6400146484375
+VZ,Verizon,Communication Services,Integrated Telecommunication Services,43.64609909057617
+VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,501.18499755859375
+VTRS,Viatris,Health Care,Pharmaceuticals,8.654999732971191
+VICI,Vici Properties,Real Estate,Hotel & Resort REITs,31.594999313354492
+V,Visa Inc.,Financials,Transaction & Payment Processing Services,348.91009521484375
+VST,Vistra Corp.,Utilities,Electric Utilities,140.8300018310547
+VMC,Vulcan Materials Company,Materials,Construction Materials,268.3349914550781
+WRB,W. R. Berkley Corporation,Financials,Property & Casualty Insurance,72.19000244140625
+GWW,W. W. Grainger,Industrials,Industrial Machinery & Supplies & Components,1069.93505859375
+WAB,Wabtec,Industrials,Construction Machinery & Heavy Transportation Equipment,191.97999572753906
+WBA,Walgreens Boots Alliance,Consumer Staples,Drug Retail,10.944999694824219
+WMT,Walmart,Consumer Staples,Consumer Staples Merchandise Retail,98.61000061035156
+DIS,Walt Disney Company (The),Communication Services,Movies & Entertainment,92.81999969482422
+WBD,Warner Bros. Discovery,Communication Services,Broadcasting,8.609999656677246
+WM,Waste Management,Industrials,Environmental & Facilities Services,234.14500427246094
+WAT,Waters Corporation,Health Care,Life Sciences Tools & Services,349.9049987792969
+WEC,WEC Energy Group,Utilities,Electric Utilities,108.5199966430664
+WFC,Wells Fargo,Financials,Diversified Banks,73.98999786376953
+WELL,Welltower,Real Estate,Health Care REITs,150.3300018310547
+WST,West Pharmaceutical Services,Health Care,Health Care Supplies,212.05999755859375
+WDC,Western Digital,Information Technology,"Technology Hardware, Storage & Peripherals",44.650001525878906
+WY,Weyerhaeuser,Real Estate,Timber REITs,26.079999923706055
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,Homefurnishing Retail,160.3699951171875
+WMB,Williams Companies,Energy,Oil & Gas Storage & Transportation,59.81999969482422
+WTW,Willis Towers Watson,Financials,Insurance Brokers,311.6000061035156
+WDAY,"Workday, Inc.",Information Technology,Application Software,250.69000244140625
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming,82.58999633789062
+XEL,Xcel Energy,Utilities,Multi-Utilities,70.44999694824219
+XYL,Xylem Inc.,Industrials,Industrial Machinery & Supplies & Components,124.9800033569336
+YUM,Yum! Brands,Consumer Discretionary,Restaurants,148.5500030517578
+ZBRA,Zebra Technologies,Information Technology,Electronic Equipment & Instruments,255.58999633789062
+ZBH,Zimmer Biomet,Health Care,Health Care Equipment,101.51000213623047
+ZTS,Zoetis,Health Care,Pharmaceuticals,157.44500732421875
